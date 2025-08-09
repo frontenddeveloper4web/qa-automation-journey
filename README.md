@@ -8,5 +8,3 @@ This is my first automated test using Playwright. It logs into a demo website an
 3. Run: `npm install`
 4. Run: `npx playwright test`
 
-## Result
-![Success Screenshot](screenshots/login-success.png)
